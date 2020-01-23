@@ -2,8 +2,8 @@
 /workspace.xml
 /misc.xml
 
+/vsc.xml
 .idea/*
 .idea/*/*
-.idea/*.xml
 *.iml
 out/
